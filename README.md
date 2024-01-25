@@ -9,7 +9,7 @@
 #### [Lívia Raiane do Nascimento](https://github.com/livnascimento)
 #### Lucia Ribeiro Durães
 #### [Marcia Pinto Barcelo](https://github.com/Mpbarcelo)
-#### Mariana Lemos Muller
+#### [Mariana Lemos Muller](https://github.com/MariMueller)
 #### [Nayara Aguiar Silva](https://github.com/devnayarasilva)
 #### [Vanilza F. Silvestre](https://github.com/Vaflosima)
 

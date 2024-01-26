@@ -7,7 +7,7 @@
 #### [Emanuelle Cruz](https://github.com/manuscruz)
 #### [Izadora Sobral](https://github.com/izadorasobral)
 #### [Lívia Raiane do Nascimento](https://github.com/livnascimento)
-#### Lucia Ribeiro Durães
+#### [Lucia Ribeiro Durães](https://github.com/luhduraes)
 #### [Marcia Pinto Barcelo](https://github.com/Mpbarcelo)
 #### [Mariana Lemos Muller](https://github.com/MariMueller)
 #### [Nayara Aguiar Silva](https://github.com/devnayarasilva)
